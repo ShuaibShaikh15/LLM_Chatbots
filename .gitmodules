@@ -1,0 +1,3 @@
+[submodule "phidata"]
+	path = phidata
+	url = https://github.com/phidatahq/phidata.git
